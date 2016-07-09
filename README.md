@@ -4,7 +4,7 @@
 
 > If you obey all the rules, you miss all the fun. -[Katharine Hepburn](https://en.wikipedia.org/wiki/Katharine_Hepburn)
 
-
+b b g r r 
 ## Simon Says: Do This Lab
 
 Remember the game [Simon](https://en.wikipedia.org/wiki/Simon_\(game\))? Simon was an electronic game popular in the 1980s. The toy would play a sequence of colors, and you had to press buttons corresponding to the colors in the same order as the sequence given.

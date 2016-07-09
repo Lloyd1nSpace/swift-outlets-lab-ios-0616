@@ -29,7 +29,6 @@ extension Color {
     }
 }
 
-
 // MARK: - CustomStringConvertible Protocol
 extension Color: CustomStringConvertible {
     var description: String {
